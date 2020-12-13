@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jpa-MybatisPlus/Jpa-Demo/Jpa-Demo.iml" filepath="$PROJECT_DIR$/Jpa-MybatisPlus/Jpa-Demo/Jpa-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jpa-MybatisPlus/Jpa-MybatisPlus.iml" filepath="$PROJECT_DIR$/Jpa-MybatisPlus/Jpa-MybatisPlus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jpa-MybatisPlus/MybatisPlus-Demo/MybatisPlus-Demo.iml" filepath="$PROJECT_DIR$/Jpa-MybatisPlus/MybatisPlus-Demo/MybatisPlus-Demo.iml" />
+    </modules>
+  </component>
+</project>
